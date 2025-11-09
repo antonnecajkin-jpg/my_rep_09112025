@@ -1,2 +1,2 @@
 print('hi'*2)
-print('0')
+print('000')
