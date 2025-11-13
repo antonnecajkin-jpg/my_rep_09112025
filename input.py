@@ -1,2 +1,2 @@
-print('hi'*2)
+print('hi'*22)
 print('qwerty')
